@@ -42,7 +42,6 @@
 <style>
 </style>
 
-//key: edc1cfcda9d4ac03f79e
 <Header />
 <InputArea
 	bind:fromValue
